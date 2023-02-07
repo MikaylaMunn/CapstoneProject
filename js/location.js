@@ -19,12 +19,7 @@ function showLocation(e) {
       $ul.append('<li class="text-dark">' + 'Sorry, there is no location close to you'+ '</li>')
   }
 }
-function reload(e) {
-  e.preventDefault();
-  window.location.reload();
-  // clears the function
-  window.localStorage.clear();
-}
+
   
 
 
