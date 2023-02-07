@@ -16,7 +16,7 @@
 /* big text on the main page */
 .bigText {
 font-size: 50px;
--webkit-background-clip: text;
+/* -webkit-background-clip: text; */
 color: white;
 text-shadow: 5px 5px 2px rgb(5, 5, 5);
 }
