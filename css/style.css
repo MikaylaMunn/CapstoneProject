@@ -29,6 +29,7 @@ text-shadow: 5px 5px 2px rgb(5, 5, 5);
     justify-content: center;
     height: 90vh;
     width: 100vw;
+    object-fit: cover;
 }
 /* All li's included */
 .iTags{
@@ -60,6 +61,7 @@ border: none;
     width: 70vw;
     border: solid 5px black;
     margin-top: 100px ;
+    object-fit: cover;
 }
 .check-out {
     height: 50vh;
@@ -72,6 +74,7 @@ border: none;
     height: 60vh;
     width: 40vw; 
     border: solid 5px black;
+    object-fit: cover;
 }
 /* paragraph on the column next to the cook */
 #aboutUsContent {

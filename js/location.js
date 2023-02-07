@@ -7,7 +7,8 @@ function showLocation(e) {
   //  the user input
    let modalLabel = document.getElementById('modalLabel');
   //  the label on the modal
-   modalLabel.innerText = "";modalLabel.append(location);
+   modalLabel.innerText = "";
+   modalLabel.append(location);
   //  taking the value from user input to see if a location is near them
    let $ul = $('.locationNearYou');
   if (location === '46516') {

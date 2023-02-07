@@ -23,6 +23,13 @@ $("body").keyup(function(e)
         e.preventDefault();
     }
 });
+$('.closeButton').on('click', function(e) {
+  e.preventDefault();
+  document.getElementById('location').value = '';
+  document.getElementById('modalLabel').innerText = '';
+  $('.locationNearYou').html('');
+
+})
 // Add comments on the about us page
 let $form = $('.form');
 let $comment = $('#comment');
