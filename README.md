@@ -4,8 +4,8 @@
 ## Summary
  This app will help prospective customers find where the truck is located and see what the truck offers. It will allow them to order their food online and pick it up. In addition to a locating a stop near the user.
 
- ## User Story
- When users first visit the site, they will see my food truck title. They will also be able to see the truck and search a location in the footer area to see if their is a location near them. 
+## User Story
+When users first visit the site, they will see my food truck title. They will also be able to see the truck and search a location in the footer area to see if their is a location near them. 
 
 When they click in the upper right hand corner, the user will see the about us and view menu. The about us section explains the truck being founded, information about who the truck targets as well as comments from previous customers. They can even post one themselves.
 
